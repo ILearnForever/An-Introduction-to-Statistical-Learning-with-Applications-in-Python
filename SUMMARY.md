@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Home](README.md)
-  * [Errata of ISL with Python](home/errata-of-isl-with-python.md)
+* [First Edition](README.md)
+  * [Errata of ISL with Python](first-edition/errata-of-isl-with-python.md)
